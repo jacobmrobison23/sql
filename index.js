@@ -195,7 +195,7 @@ function quit() {
     process.exit();
 }
 
-module.exports = runPrompts;
+
 
 
 
